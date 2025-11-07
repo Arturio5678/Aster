@@ -1,7 +1,7 @@
 # Aster
 # This is my repository
 ### My name is Arthur
-![my photo](https://i.pinimg.com/736x/66/11/4a/66114a9b10bd9bd2585b82ff80c63c5f.jpg)
+![my photo](https://abrakadabra.fun/uploads/posts/2022-02/1644684732_6-abrakadabra-fun-p-stikmen-ava-mem-19.png)
 **I'm javascript developer.**
 *There is Example of my code:*
 ```javascript
